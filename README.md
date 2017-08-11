@@ -2,4 +2,4 @@
 
 This is a simple one page website using HTML and CSS. 
 
-https://matthewleach.github.io/one-night/
+https://matthewleach.github.io/One-Night-Demo/
